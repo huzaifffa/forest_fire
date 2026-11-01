@@ -1,2 +1,5 @@
 /.venv
 /data
+/dnbr_output
+.DS_Store
+__pycache__/f_fire.cpython-314.pyc
